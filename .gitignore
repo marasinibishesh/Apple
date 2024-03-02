@@ -1,2 +1,6 @@
 script.js
 *.exe
+.gitignore
+*.txt
+*.css
+*.js
